@@ -1,0 +1,13 @@
+{ margin: 0; padding: 0; font-family: "Noto Sans Sinhala", sans-serif; background-color: #f9f5f0; color: #333; }
+
+header { background-color: #a67c52; color: white; padding: 20px; text-align: center; }
+
+nav a { margin: 0 10px; text-decoration: none; color: white; font-weight: bold; }
+
+nav a:hover { text-decoration: underline; }
+
+.intro, .content { padding: 40px; text-align: center; }
+
+footer { background-color: #3e2c1e; color: white; text-align: center; padding: 20px; margin-top: 40px; }
+
+.location { font-size: 18px; font-weight: normal;
